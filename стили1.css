@@ -1,0 +1,56 @@
+﻿body {
+    background: #e9dbd7;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#header {
+    height: 80px;
+    background: url(tigr_fon.jpg) no-repeat;
+    padding-top: 10px;
+    padding-left: 200px;
+    color: #1c0905;
+}
+#content {
+    padding-top: 40px;
+    padding: 40px;
+    color: #1c0905;
+}
+
+#content1 {
+    padding-top: 40px;
+    padding: 20px;
+    padding-left: 100px;
+    color: #1c0905;
+    margin-right: 50px;
+    margin-left: 250px;
+}
+p1 {
+    color: #1c0905;
+    padding: 20px;
+}
+p2 {
+    color: #1c0905;
+    padding: 500px;
+}
+#table {
+    color: #1c0905;
+    margin-right: 100px;
+    margin-left: 350px; 
+}
+#photo {
+    background-size: auto;
+    background: #dd6217;
+    float: left;
+    width: 220px;
+    padding-left: 50px;
+}
+
+#photo4 {
+    background: #dd6217;
+}
+
+img {
+    margin: 5px;
+}
